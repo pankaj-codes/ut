@@ -23,13 +23,13 @@ theme: academic
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Utkarsha Singh"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Small town girl."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "IISc"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "utkarshas@iisc.ac.in" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
